@@ -26,4 +26,4 @@ When I'm not engineering, I spend my time doing hot yoga, dance classes, tennis,
   
 ## 🚀 Projects I've worked on recently
 - [Horizen](https://github.com/jessicauviovo/fashion_supply_chain): Horizen is a blockchain-based platform that tracks fashion supply chains, ensuring transparency, fairness, and real-time data. Our Chrome extension alerts users when they view a product with a low ethical score, encouraging responsible shopping.
-- [Tiktokify My Notes](https://github.com/jessicauviovo/tiktokify-my-notes): Tiktok My Notes transforms student notes into audios inspired by Tiktok videos
+- [Tiktokify My Notes](https://github.com/jessicauviovo/tiktokify-my-notes): Tiktok My Notes transforms student notes into audios inspired by Tiktok videos.
