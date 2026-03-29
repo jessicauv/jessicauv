@@ -12,18 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# jessica's playground
 
-# Hi there, I'm Jessica 👋
+```typescript
+     let message: string = `You need to stay connected with your inner child.
+                            Capture a sense of purity and wonder by doing something wholesome
+                            and spontaneous every day.`;
+```
 
-## 🤔 About Me
-I'm currently a Sofware Engineer at Dell Technologies, working in embedded/firmware engineering. I joined 2+ years ago and have worked across BIOS, Embedded Controller and Root Cause Analysis teams.
-
-I got my Bachelor's in Computer Engineering in May 2023 from Stony Brook University with honors and a spot on the Dean's List.
-
-My current interests: AI/ML, Human-Computer Interaction, Robotics, Security but I dabble in everything.
-
-When I'm not engineering, I spend my time doing hot yoga, dance classes, tennis, reading, journalling, watching Tiktoks, etc
-  
-<!--## 🚀 Projects I've worked on recently
-- [Horizen](https://github.com/jessicauv/fashion_supply_chain): Horizen is a blockchain-based platform that tracks fashion supply chains, ensuring transparency, fairness, and real-time data. Our Chrome extension alerts users when they view a product with a low ethical score, encouraging responsible shopping.
-- [Tiktokify My Notes](https://github.com/jessicauv/tiktokify-my-notes): Tiktok My Notes transforms student notes into audios inspired by Tiktok videos.-->
+## about me ♡
+* 📙  B.E Computer Engineering
+* 📘  Software Engineer (Embedded/Firmware)
+* 📗  Interests: AI, HCI, Robotics, Security
+* 📒  Hobbies: Yoga, Journalling, Reading
